@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b13583&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Jessica+:%29)](https://git.io/typing-svg)
 <div width="30%" height="195px">
-  <p align="center">Tenho 27 anos, sou graduada em Sistemas de Informação e graduanda em Engenharia da Computação, com previsão de conclusão ao final de 2024.</p>
+  <p align="center">Tenho 28 anos, sou graduada em Sistemas de Informação(2018), Tecnologia da Informação com enfase em IoT(2024) e graduanda em Engenharia da Computação, com previsão de conclusão ao final de 2024.</p>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jessicarolyne&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/jessicarolyne/jessicarolyne)
